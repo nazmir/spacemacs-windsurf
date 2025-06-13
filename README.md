@@ -1,6 +1,6 @@
 # Spacemacs colors for Windsurf (Dark & Light)
 
-All credit where it is due, the real work was done by the wonderfull people of [spacemacs](http://spacemacs.org)
+All credit where it is due, the real work was done by the wonderfull people of [spacemacs](http://spacemacs.org) and [cometeer](https://github.com/cometeer). I just packaged and published it to windsurf and open vsx.
 
 Themes both include workbench and terminal styling.
 

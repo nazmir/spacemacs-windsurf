@@ -1,0 +1,13 @@
+.vscode/
+.vscode-test/
+.git/
+.gitignore
+README.md
+LICENSE
+*.code-workspace
+*.vsix
+node_modules/
+assets/colortest.sh
+assets/spacemacs %20dark.png
+assets/spacemacs %20light.png
+.DS_Store

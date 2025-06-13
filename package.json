@@ -1,11 +1,11 @@
 {
-  "name": "spacemacs",
-  "displayName": "Spacemacs",
-  "description": "Spacemacs themes for Windsurf",
+  "name": "Spacemacs",
+  "displayName": "Spacemacs for Windsurf",
+  "description": "Spacemacs theme for Windsurf",
   "version": "1.1.0",
   "publisher": "nazmir",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
@@ -30,14 +30,16 @@
   },
   "keywords": [
     "vs-code",
+    "windsurf",
     "theme",
     "spacemacs"
   ],
-  "author": "nazmir",
+  "registry": "https://open-vsx.org/",
+  "author": "Naz Mir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nazmir/spacemacs-windsurf/issues"
   },
   "homepage": "https://github.com/nazmir/spacemacs-windsurf#readme",
-  "icon": "assets/icon.svg"
+  "icon": "assets/icon.png"
 }
