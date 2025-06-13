@@ -1,9 +1,9 @@
 {
   "name": "spacemacs",
   "displayName": "Spacemacs",
-  "description": "Spacemacs themes for Visual Studio Code",
+  "description": "Spacemacs themes for Windsurf",
   "version": "1.1.0",
-  "publisher": "cometeer",
+  "publisher": "nazmir",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -26,18 +26,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cometeer/spacemacs-vscode.git"
+    "url": "git+https://github.com/nazmir/spacemacs-windsurf.git"
   },
   "keywords": [
     "vs-code",
     "theme",
     "spacemacs"
   ],
-  "author": "cometeer",
+  "author": "nazmir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cometeer/spacemacs-vscode/issues"
+    "url": "https://github.com/nazmir/spacemacs-windsurf/issues"
   },
-  "homepage": "https://github.com/cometeer/spacemacs-vscode#readme",
+  "homepage": "https://github.com/nazmir/spacemacs-windsurf#readme",
   "icon": "assets/icon.svg"
 }
